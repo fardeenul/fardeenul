@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @fardeenul
-- 👀 I’m interested in Data Analytics
+- 👀 My educational background is in Accounting, with experience in banking & insurance industry
+- 📊 I’m interested in learning Data/business Analytics
 - 🌱 I’m currently learning SQL/TABLEU/PowerBI
 - 💞️ I’m looking to collaborate on projects involving data sets.
 - 📫 Feel free to reach me at fardeenul@gmail.com
