@@ -1,5 +1,5 @@
     👋 Hi, I’m @fardeenul
-    🎓 I hold an educational background in Accounting, along with a rich experience in the banking and insurance industry.
+    🎓 I'm doing a masters in Data Science @GATECH, while working in the banking and insurance industry.
     📊 Passionate about the world of Data and Business Analytics, I'm excited to harness the power of data to derive valuable insights and drive impactful decisions.
     🌱 Currently, my learning journey revolves around Machine Learning and Statistical Modelling, as I strive to delve deeper into the realm of data-driven solutions.
     💼 With my unique blend of financial expertise and analytical aspirations, I'm eagerly looking forward to collaborating on projects that involve complex datasets, where my skills can make a meaningful contribution.
